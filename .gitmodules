@@ -1,0 +1,9 @@
+[submodule "submodule-utility1"]
+	path = submodule-utility1
+	url = https://github.com/tadhglydon/submodule-utility1
+[submodule "submodule-utility2"]
+	path = submodule-utility2
+	url = https://github.com/tadhglydon/submodule-utility2
+[submodule "submodule-utility3"]
+	path = submodule-utility3
+	url = https://github.com/tadhglydon/submodule-utility3
